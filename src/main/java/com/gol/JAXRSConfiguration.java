@@ -1,4 +1,4 @@
-package com.odamax.elastic;
+package com.gol;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
