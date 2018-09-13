@@ -1,4 +1,4 @@
-I implemented optimistic locking.
+I implemented optimistic locking. Point is that we change transaction id of user's wallet, each time balance changes. 
 
 
 
