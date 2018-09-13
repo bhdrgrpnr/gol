@@ -5,7 +5,7 @@
         <exclude-unlisted-classes>false</exclude-unlisted-classes>
         <shared-cache-mode>DISABLE_SELECTIVE</shared-cache-mode>
         <properties>
-            <property name="hibernate.hbm2ddl.auto" value="create"/>
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
             <property name="hibernate.show_sql" value="true"/>
             <property name="hibernate.format_sql" value="true"/>
             <property name="hibernate.generate_statistics" value="false"/>
